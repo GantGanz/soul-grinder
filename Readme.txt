@@ -4,7 +4,7 @@ hollow kight-like game
 
 stats system : hp, attack, magic damage, mana pool, curse resistance (for trinket)
 
-trinket : monocles of (can see future attack), boots of icarus? (can glide/double jumb), (no miss), (revive with 50% hp), double jump/triple jump (check 09 10:50), crawling on wall
+trinket : monocles of (can see future attack), boots of icarus? (can glide/double jumb), (no miss), (revive with 50% hp), double jump/triple jump, crawling on wall
 
 stage : castle, 
 	sky, 
