@@ -9,7 +9,8 @@ trinket : monocles of (can see future attack), boots of icarus? (can glide/doubl
 stage : castle, 
 	sky, 
 	under castle/sea, need underwater lamp, need learn 'dance'
-	swarm (muddy, check 09 10:50)	
+	swarm (muddy, check 09 10:50),
+	ice (glidy)
 
 stage mode : tower of gods, true tower of gods (level 10, fewer rest)
 
